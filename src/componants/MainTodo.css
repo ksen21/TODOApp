@@ -1,0 +1,22 @@
+
+
+
+
+.button{
+    background-color: blue;
+}
+
+
+
+@media (max-width:600px) {
+    .button{
+        background-color: black;
+    }
+    .centerDiv{
+        width: 15rem;
+
+    }
+    .main_div{
+        background-color: brown;
+    }
+}
